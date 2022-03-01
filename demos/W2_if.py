@@ -1,7 +1,7 @@
 name = input("Enter your name: ")
 
 #len() - function that returns the lenght of string*
-#if, elif, else use : after the cmd line
+#if, elif, else use :doua puncte, after the cmd line
 
 if len(name) > 9: 
   print("Your name is way to long to rember. Can I use a nickname please?")
