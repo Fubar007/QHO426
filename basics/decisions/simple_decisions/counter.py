@@ -1,9 +1,9 @@
 print("Please enter the first number: ")
-n1 = (int(input))
+n1 = int(input())
 print("Please second the first number: ")
-n2 = (int(input))
+n2 = int(input())
 print("Please third the first number: ")
-n3 = (int(input))
+n3 = int(input())
 
 odd = 0
 even = 0
