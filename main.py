@@ -1,6 +1,11 @@
-print("Please enter a whole number.")
-n = int(input())
-if n % 2 == 0:
-  print(f"The number {n} is an even number.")
-else:
-  print(f"The number {n} is an odd number")
+print("What type of cover does the book have?")
+cover = input()
+if cover == "soft":
+  print("Is the book perfect bound?")
+  answer = perfect bound
+  if answer == "yes":
+    print("Soft cover, perfect bound are very popular!")
+  else:
+    print("Soft covers with coils or stitches are great for short books")
+elif cover == "hard":
+  print("Books with hard cover can be more expensive!")
