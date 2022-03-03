@@ -13,4 +13,5 @@ while True:
   if a == "ratatata":
     break
 
-#while #break
+#while #break 
+#While is good to use when you don't know how many repetions u may have
