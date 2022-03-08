@@ -3,5 +3,6 @@ bars = int(input())
 b = 0
 while b < bars:
   b += 1
-  print(f"Charging ", "\u2666"*bars)
-print("\nThe battery is fully charged!")
+  print("Charging ", "\u2666"*b)
+
+print("The battery is fully charged!")
